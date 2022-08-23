@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Elnogara_FirstHelper>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Elnogara_FirstHelper>
+    </modules>
+</config>
