@@ -79,4 +79,4 @@ Se estiverem configurados corretamente, basta acessar seu domínio de loja e pas
 Me retorna a mensagem "Log criado com sucesso." que é a mensagem configurada dentro do Helper que está sendo chamado pelo Controller então funcionou tudo como gostariamos.
 Agora nas pastas do Magento, acesse var/log e o arquivo testeLog.log terá sido criado.
 
-Qualquer problema estou a disposição para auxiliar vocês.
+<strong>Qualquer dúvida estou a disposição - <a href="https://wellingtonnogara.com/" style="color: red;">Wellington Nogara</a>.</strong>
